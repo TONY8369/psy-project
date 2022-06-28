@@ -1,0 +1,31 @@
+.footer-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    background-color: white;
+    border-radius: 30px;
+    border: solid #d4e6f1;
+}
+
+.facebook{
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+}
+
+.linkedin{
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+}
+
+.telephone{
+    width: 35px;
+    height: 35px;
+}
+
+.email{
+    width: 35px;
+    height: 35px;
+}

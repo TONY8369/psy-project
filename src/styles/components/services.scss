@@ -1,0 +1,139 @@
+.title-services{
+    text-align: center;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#85c1e9;
+    border-radius: 25px;
+    font-size: 15px;
+}
+
+.services-container{
+    margin-top: 15px;
+    display: flex;
+    background-color: white;
+    border-radius: 30px;
+    border: solid #d4e6f1;
+}
+
+#services-container-un{
+    width: 30%;
+    display: flex;
+}
+.container-un{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin: 0 auto;
+}
+.container-deux{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.cerveau{
+    margin-top: 10px;
+    width: 150px;
+    height: 150px;
+}
+.cible{
+    margin-top: 10px;
+    width: 150px;
+    height: 150px;
+}
+
+.title-services-un{
+    font-size: 15px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#services-container-deux{
+    width: 25%;
+    display: flex;
+}
+
+.container-trois{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+}
+.container-quatre{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+}
+
+.metre{
+    width: 150px;
+    height: 150px;
+    margin-top: 10px;
+}
+.tabac{
+    margin-top: 10px;
+    width: 150px;
+    height: 150px;
+}
+
+.title-services-deux{
+    font-size: 15px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.text-services{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.button-services{
+    margin-top: 15px;
+    width: 90px;
+    height: 30px;
+    border-radius: 30px;
+    border: solid  #85c1e9;
+    background-color: #d4e6f1;
+    font-size: 20px;
+}
+.button-services-trois{
+    margin-top: 35px;
+    width: 90px;
+    height: 30px;
+    border-radius: 30px;
+    background-color: #d4e6f1;
+    border: solid  #85c1e9;
+    font-size: 20px;
+}
+.button-services-quatre{
+    background-color: #d4e6f1;
+    margin-top: 43px;
+    margin-bottom: 10px;
+    width: 90px;
+    height: 30px;
+    border-radius: 30px;
+    border: solid  #85c1e9;
+    font-size: 20px;
+}
+.button-services:hover{
+    border: solid #3498db;
+    background-color:#85c1e9;
+}
+.button-services-trois:hover{
+    border: solid #3498db;
+    background-color:#85c1e9;
+}
+.button-services-quatre:hover{
+    border: solid #3498db;
+    background-color:#85c1e9;
+}

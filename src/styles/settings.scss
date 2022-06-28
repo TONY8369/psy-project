@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@800&family=Josefin+Sans:wght@100&family=Nova+Round&display=swap');
+
+$font-1: 'Nova Round', serif;
+$font-2: 'Dosis', sans-serif;
+$font-3: 'Josefin Sans', serif;
+
+$color-1: #33FFE0;
+$color-2: #33FFF3;
+$color-3: #33E9FF;
+$color-4: #7AFF04;
+$color-5: #3AFF04;
+$color-6: #04FF10;
+$color-7: #04FF5C;
+$white:  #ecf0f1;
+$black: #2C2C2C;
+
+$borderRadius: 25px;
+$shadow: 0 1px 3px #333;
+$minHeight: 95vh;
+
+@mixin verticalCenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 1rem auto;
+    max-width: 1300px;
+    font-family: $font-1;
+    background-color: #ecf0f1;
+}
+button{
+    cursor: pointer;
+}
+
+li{
+    list-style-type: none;
+    padding-left: 40px;
+}
+
+a{
+    text-decoration: none;
+    color: $black;
+    cursor: pointer;
+}
+
+a:hover{
+    color: #3498db;
+}
+
+
+

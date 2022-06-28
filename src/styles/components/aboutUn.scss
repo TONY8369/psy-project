@@ -1,0 +1,194 @@
+.theme-title{
+    margin-top: 15px;
+    padding-left: 15px;
+    background-color: #aed6f1;
+    width: 45%;
+    text-align: center;
+    border-radius: 30px;
+    border: solid white;
+}
+
+.theme-title-contact{
+    margin-top: 15px;
+    padding-left: 15px;
+    background-color: #aed6f1;
+    width: 30%;
+    text-align: center;
+    border-radius: 30px;
+    border: solid white;
+}
+
+.aboutUn-container{
+    margin-top: 25px;
+    background-color:#85c1e9;
+    border: solid #d4e6f1;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.aboutUn-title-un{
+    text-align: center;
+}
+
+.aboutUn-title-deux{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.aboutUn-text{
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+
+.aboutUn-text-deux{
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 25px;
+}
+
+.image-blandine{
+    width: 400px;
+    height: 500px;
+    border-radius: 30px;
+}
+
+.about-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+
+.about-un{
+    font-size: 20px;
+    color: #85c1e9;
+}
+
+.about-deux{
+    margin-top: 15px;
+    text-align: center;
+    width: 90%;
+}
+
+.about-container-deux{
+     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    background-color:#85c1e9;
+    border-radius: 30px;
+    border: solid #d4e6f1;
+}
+
+.about-trois{
+    padding-top: 10px;
+    text-align: center;
+}
+
+.image-transformation{
+    width: 200px;
+    height: 100px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.about-container{
+    background-color: white;
+    border: solid #d4e6f1;
+    border-radius: 30px;
+    width: 100%;
+}
+
+.about-container-trois{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    background-color: #85c1e9;
+    border-radius: 30px;
+    border: solid #d4e6f1;
+}
+
+.container-ul{
+    display: flex;
+    flex-direction: column;
+}
+
+.diplome-deux{
+    margin-right: 5px;
+    margin-bottom: 10px;
+    background-color:#d4e6f1;
+    border-radius: 35px;
+    padding-right: 15px;
+    width: 80%;
+    height: 55px;
+    padding-top: 10px;
+    border: solid white;
+}
+
+.aContainerTrois{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.aContainerQuatre{
+    margin-top: 15px;
+}
+
+.snh{
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+    border-radius: 30px;
+}
+
+.snh:hover{
+    transition: 0.3s ease-in-out ;
+    width: 250px;
+    height: 250px;
+}
+
+.emcc{
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+    border-radius: 30px;
+}
+
+.emcc:hover{
+    transition: 0.3s ease-in-out ;
+    width: 250px;
+    height: 250px;
+}
+
+.afcodev{
+    width: 200px;
+    height: 200px;
+    border-radius: 30px;
+}
+
+.afcodev:hover{
+    transition: 0.3s ease-in-out ;
+    width: 250px;
+    height: 250px;
+}
+
+.about-container-cinq{
+    margin-top: 15px;
+}
+
+.paragraphe-container-cinq{
+    width: 85%;
+    text-align: center;
+    margin: 0 auto;
+}

@@ -1,0 +1,50 @@
+.bio-container{
+    background-color:  #d6eaf8;
+    margin-top: 10px;
+    border-radius: 30px;
+    border: solid #d4e6f1;
+    display: flex;
+}
+
+.bio-image{
+    width: 500px;
+    height: 360px;
+    border-radius: 30px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+#text-bio{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.bio-title-un{
+    margin-bottom: 15px;
+}
+
+.bio-title-deux{
+    margin-bottom: 10px;
+}
+
+.paragraphe-bio{
+    text-align: center;
+    margin-top: 10px;
+    width: 50%;
+}
+
+.button{
+    margin-top: 15px;
+    width: 70px;
+    height: 50px;
+    border-radius: 30px;
+    border: solid  #d4e6f1;
+    font-size: 20px;
+    background-color: #85c1e9;
+}
+
+.button:hover{
+    border: solid #3498db;
+}
